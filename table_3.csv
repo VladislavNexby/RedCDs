@@ -1,0 +1,4 @@
+DOI,type_of_synthesis,precursor_1,precursor_2,precursor_3,reagent,precursor_1_g,precursor_2_g,precursor_3_g,reagent_mL,power_W,temperature_°C,time_h,Abs_red_max_nm,Exc_red_max_nm,FL_red_max_nm,QY_red_%,molar_concentration_precursor_1,molar_concentration_precursor_2,molar_concentration_precursor_3
+10.1002/advs.202300543,ST,m-hydroxybenzaldehyde,,,ethanol,2.0,,,10.0,,180.0,8.0,317.0,570.0,642,38.0,1.041666667,,
+10.1016/j.carbon.2018.10.047,ST,Poly(3-alkylthiophene),,,NaOH/water,0.03,,,40.0,,170.0,20.0,300.0,,700,2.06,0.00862069,,
+10.1039/C9NH00287A,ST,1_3_5-benzenetrithiol,,,H2SO4/ethanol,0.174,,,10.0,,200.0,2.0,300.0,626.0,672,31.82,0.1,,

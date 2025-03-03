@@ -1,0 +1,20 @@
+DOI,type_of_synthesis,precursor_1,precursor_2,precursor_3,reagent,precursor_1_g,precursor_2_g,precursor_3_g,reagent_mL,power_W,temperature_°C,time_h,Abs_red_max_nm,Exc_red_max_nm,FL_red_max_nm,QY_red_%,molar_concentration_precursor_1,molar_concentration_precursor_2,molar_concentration_precursor_3
+10.1002/smll.201905050,ST,CA,urea,,DMF,2.0,4.0,,20.0,,160.0,6.0,720.0,732.0,770,11.0,0.520833333,3.333333333,
+10.1038/s41377-018-0090-1,ST,CA,urea,,DMSO,2.0,6.0,,30.0,,160.0,4.0,650.0,655.0,720,0.2,0.347222222,3.333333333,
+10.1002/adma.201603443,HT,Dopamine,o-phenylenediamine,,water,0.184,0.108,,10.0,,200.0,8.0,631.0,540.0,710,26.28,0.120261438,0.18,
+10.1002/smll.202000680,ST,CA,urea,NH4F,DMF,2.0,4.0,0.195,20.0,,180.0,4.0,715.0,710.0,777,9.8,0.520833333,3.333333333,0.263513514
+10.1002/adma.201705913,ST,CA,urea,,DMF,2.0,4.0,,20.0,,160.0,6.0,715.0,732.0,760,10.0,0.520833333,3.333333333,
+10.1038/s41551-020-0540-y,HT,CA,1_4_5_8-tetraminoanthraquinone,,water,0.04,0.03,,10.0,,180.0,2.0,650.0,600.0,700,6.8,0.020833333,0.01119403,
+10.1002/smll.201800612,ST,l-glutamic acid,o-phenylenediamine,,H2SO4/water,0.11,0.16,,25.0,,210.0,10.0,634.0,600.0,715,43.0,0.029931973,0.059259259,
+10.1021/acsabm.8b00029,HT,CA,Tetraamino porphyrin,,water,1.0,0.1,,20.0,,200.0,3.0,670.0,440.0,750,8.54,0.260416667,0.007407407,
+10.1002/adfm.202213856,ST,Glutathione,Folic acid,,formamide,2.1,0.105,,70.0,,140.0,6.0,675.0,675.0,683,14.0,0.09771987,0.003401361,
+10.1016/j.jlumin.2023.119727,ST,spirulina powder,,,water/ethanol,0.6,,,30.0,,150.0,6.0,667.0,420.0,677,3.72,0.083333333,,
+10.1016/j.jcis.2021.07.156,ST,Glutathione,,,formamide,0.6,,,20.0,,180.0,1.0,675.0,,680,4.2,0.09771987,,
+10.1016/j.jcis.2021.07.156,ST,Glutathione,,,formamide,0.6,,,20.0,,180.0,2.0,675.0,,680,3.1,0.09771987,,
+10.1016/j.jcis.2021.07.156,ST,Glutathione,,,formamide,0.6,,,20.0,,180.0,4.0,675.0,,680,0.8,0.09771987,,
+10.1016/j.jcis.2021.07.156,ST,Glutathione,,,formamide,0.6,,,20.0,,180.0,8.0,675.0,,680,0.9,0.09771987,,
+10.1021/acsami.9b21576,ST,p-phenylenediamine,,,ethyl alcohol,0.5,,,50.0,,180.0,12.0,680.0,415.0,683,15.4,0.092592593,,
+10.1039/C6NR05878G,MW,Glutathione,,,formamide,1.7,,,50.0,,160.0,1.0,670.0,588.0,683,16.8,0.110749186,,
+10.1002/adma.201706090,,manganese(II) phthalocyanine,,,ethanol,0.02,,,40.0,,180.0,24.0,720.0,690.0,745,0.4,0.001628664,,
+10.1007/s11426-021-1033-6,ST,CA,thiourea,ammonium fluoride,NaOH/DMF,0.96,1.96,0.195,20.0,,180.0,8.0,699.0,580.0,714,22.64,0.25,1.289473684,0.263513514
+10.1016/j.scib.2019.07.021,ST,o-phenylenediamine,dopamine,,H2SO4/water,0.108,0.184,,10.0,,200.0,6.0,615.0,560.0,685,33.96,0.1,0.120261438,
